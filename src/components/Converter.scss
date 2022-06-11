@@ -1,0 +1,18 @@
+.converter {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.spinner {
+  margin-top: 120px;
+}
